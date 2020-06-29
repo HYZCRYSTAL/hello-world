@@ -11,6 +11,6 @@ JavaScript：用于实现网页交互
 1.GitHub的使用  
 2.计算机相关英语学习  
 3.visual studio code的使用  
-4.Markdown的排版学习
+4.Markdown的排版学习  
 【flag】  
 想要作为一项技能熟练运用，制作出自己想要的网页。虽然我总是不自觉会把战线拉长，但我能够坚持战斗！
